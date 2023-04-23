@@ -1,11 +1,11 @@
 {
-  "name": "@firestitch/package",
-  "title": "package.json -> Rename Title to Component Title",
-  "description": "@firestitch/package",
-  "version": "10.0.0",
+  "name": "@firestitch/print",
+  "title": "Print",
+  "description": "@firestitch/print",
+  "version": "12.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Firestitch/ngx-package"
+    "url": "https://github.com/Firestitch/ngx-print"
   },
   "author": {
     "name": "Firestitch",
@@ -43,7 +43,7 @@
     "@angular/router": "^12.2.16",
     "@compodoc/compodoc": "^1.1.19",
     "@firestitch/common": "^12.0.0",
-    "@firestitch/component-tools": "^12.0.13",
+    "@firestitch/component-tools": "^12.0.14",
     "@firestitch/core": "^12.0.2",
     "@firestitch/drawer": "^12.1.0",
     "@firestitch/example": "^12.0.0",
